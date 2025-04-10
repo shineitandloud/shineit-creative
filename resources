@@ -1,0 +1,77 @@
+{
+"action": "Generate new instructions",
+"instructions": [
+{
+"rewritten_query": "Find open-source datasets for analyzing social media post performance on Instagram, TikTok, and Facebook, focusing on engagement metrics like likes, comments, shares, and saves.",
+"instructions": [
+"(1) Search Google Dataset Search, Kaggle, Hugging Face Datasets, and GitHub for datasets containing social media post performance data for Instagram, TikTok, and Facebook.",
+"(2) Prioritize datasets that include engagement metrics (likes, comments, shares, saves), post content (images, videos, text), hashtags, and timestamps.",
+"(3) Look for datasets specifically related to fashion, streetwear, or creative content.",
+"(4) For each relevant dataset found, note the platform(s) it covers, the types of data included, the size, and the hosting platform."
+]
+},
+{
+"rewritten_query": "Identify open-source datasets that provide insights into engagement patterns across Instagram, TikTok, and Facebook.",
+"instructions": [
+"(1) Search Google Dataset Search, Kaggle, Hugging Face Datasets, and GitHub for datasets focused on social media engagement analysis across multiple platforms (Instagram, TikTok, Facebook).",
+"(2) Look for datasets that include metrics like time spent, interaction types, user demographics, and content formats associated with different levels of engagement.",
+"(3) Prioritize datasets that allow for comparison of engagement patterns between the specified platforms.",
+"(4) For each relevant dataset, note the platforms covered, the engagement metrics available, and any insights into user behavior."
+]
+},
+{
+"rewritten_query": "Find open-source datasets of fashion and streetwear content, including captions, visuals, hashtags, and sound trends, for Instagram, TikTok, and Facebook.",
+"instructions": [
+"(1) Search Google Dataset Search, Kaggle, Hugging Face Datasets, and GitHub for datasets containing fashion and streetwear content from Instagram, TikTok, and Facebook.",
+"(2) Prioritize datasets that are multi-modal, including images, videos, captions, hashtags, and ideally, information about trending sounds on TikTok.",
+"(3) Look for datasets that focus on men's fashion, futuristic styles, surreal aesthetics, or content targeting Gen Z and Millennials.",
+"(4) For each relevant dataset, note the platform(s) covered, the types of content included, and any associated metadata like user reactions."
+]
+},
+{
+"rewritten_query": "Identify open-source datasets that capture user reactions to social media content (comments, shares, saves) on Instagram, TikTok, and Facebook.",
+"instructions": [
+"(1) Search Google Dataset Search, Kaggle, Hugging Face Datasets, and GitHub for datasets that specifically track user reactions (comments, shares, saves) to content on Instagram, TikTok, and Facebook.",
+"(2) Look for datasets that link these reactions to specific types of content (images, videos, text) and associated metadata like hashtags and captions.",
+"(3) Prioritize datasets within the fashion, streetwear, or creative niches.",
+"(4) For each relevant dataset, note the platform(s) covered, the types of user reactions tracked, and any demographic information available."
+]
+},
+{
+"rewritten_query": "Research AI tools and platforms used to analyze or generate viral social media content, particularly for fashion.",
+"instructions": [
+"(1) Search Google for research papers, articles, and open-source projects that discuss AI tools and platforms used for analyzing or generating viral content on social media platforms like Instagram, TikTok, and Facebook.",
+"(2) Focus the search on AI tools relevant to the fashion industry, including those that can predict virality, optimize posting times, generate images, videos, captions, and hashtags.",
+"(3) Identify specific AI tools or platforms mentioned in the research and note their key features and functionalities.",
+"(4) Look for information on whether these tools are open-source or have APIs that could be used by WEAR RISN."
+]
+},
+{
+"rewritten_query": "Find research papers that use AI for predicting virality or optimal post timing on Instagram, TikTok, and Facebook, specifically for fashion content.",
+"instructions": [
+"(1) Search Google Scholar, arXiv, and other academic databases for research papers focusing on the use of AI to predict the virality of social media posts on Instagram, TikTok, and Facebook.",
+"(2) Prioritize papers that address virality prediction for fashion or visually-driven content.",
+"(3) Look for papers that also explore the use of AI to determine optimal posting times for maximizing reach and engagement.",
+"(4) For each relevant paper, summarize the methodology, datasets used, and key findings related to virality prediction and post timing."
+]
+},
+{
+"rewritten_query": "Research AI tools and papers on generating social media content (images, captions, hashtags, videos) for fashion brands on Instagram, TikTok, and Facebook.",
+"instructions": [
+"(1) Search Google Scholar, arXiv, and other resources for research papers and information on AI tools used to generate social media content (images, captions, hashtags, short-form videos) for fashion brands.",
+"(2) Focus on tools and research relevant to the aesthetic of WEAR RISN (futuristic, surreal, techwear).",
+"(3) Identify specific AI tools or techniques discussed and note their capabilities and limitations.",
+"(4) Look for open-source implementations or APIs that WEAR RISN could potentially use."
+]
+},
+{
+"rewritten_query": "Explore AI tools for social media automation and scheduling optimization for Instagram, TikTok, and Facebook.",
+"instructions": [
+"(1) Search Google for AI-powered social media management tools that offer automation and scheduling optimization features for Instagram, TikTok, and Facebook.",
+"(2) Look for tools that use AI to suggest optimal posting times, automate content distribution, and potentially analyze performance data to refine scheduling strategies.",
+"(3) Note the names of relevant tools and their key AI-powered features related to automation and scheduling.",
+"(4) Check if these tools offer free trials or have pricing models suitable for a growing brand."
+]
+}
+]
+}
